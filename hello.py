@@ -1,4 +1,4 @@
 a = "HELLO"
 b = "WORLD"
 
-print(a + b)
+print(a + " " + b)
