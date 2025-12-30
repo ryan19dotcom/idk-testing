@@ -36,10 +36,3 @@ Yes, I used TWO variables. Because I believe in clean code. Because I believe in
 2. Spaces matter (added `" "` between words)
 3. The `print()` function is mass powerful
 
-## What's Next? 🔮
-
-Tomorrow I mass deploy this to mass production.
-
-Agree? ♻️ Repost if this helped you.
-
-#Python #HelloWorld #TechJourney #OpenToWork #Coding #MassApplying
